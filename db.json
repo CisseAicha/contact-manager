@@ -1,0 +1,25 @@
+{
+  "contacts": [
+    {
+      "name": "cisse",
+      "username": "aissatou",
+      "email": "aisha@gmail.com",
+      "number": "772225544",
+      "id": 11
+    },
+    {
+      "name": "dia",
+      "username": "mounass",
+      "email": "dia@gmail.com",
+      "number": "778889990",
+      "id": 17
+    },
+    {
+      "name": "ess",
+      "username": "jrtyd",
+      "email": "rr@gmail.com",
+      "number": "33222",
+      "id": 18
+    }
+  ]
+}
